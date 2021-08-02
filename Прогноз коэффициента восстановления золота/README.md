@@ -24,4 +24,8 @@
 
 - Обучена Dummy модель для проверки на адекватность
 
+**Я научился:**
+
+- Использовать GridSearchCV для наилучшего набора параметров
+
 **Используемый стек:**  Jupyter Notebook, библиотеки Pandas, Matplotlib, Seaborn, Scikit-learn.
